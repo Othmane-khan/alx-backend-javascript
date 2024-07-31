@@ -162,5 +162,5 @@ This project contains tasks for learning to use TypeScript.
     + `sumMajorCredits` returns `MajorCredits` value and `sumMinorCredits` returns `MinorCredits` value.
     + Each function sums the credits of the two subjects.
 # Author
-# Jerome Udoh
+# Khanous Othmane
 
